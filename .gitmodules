@@ -40,3 +40,6 @@
 [submodule "build-docker-images"]
 	path = build-docker-images
 	url = https://github.com/jbgo/ansible-build-docker-images
+[submodule "docker-compose"]
+	path = docker-compose
+	url = https://github.com/weareinteractive/ansible-docker-compose
