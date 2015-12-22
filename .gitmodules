@@ -37,3 +37,6 @@
 [submodule "php-fpm"]
 	path = php-fpm
 	url = https://github.com/Servers-for-Hackers/ansible-php-fpm
+[submodule "build-docker-images"]
+	path = build-docker-images
+	url = https://github.com/jbgo/ansible-build-docker-images
