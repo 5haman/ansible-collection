@@ -1,0 +1,39 @@
+[submodule "ssl-example"]
+	path = ssl-example
+	url = https://github.com/Servers-for-Hackers/ansible-ssl-example.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/Servers-for-Hackers/ansible-nginx.git
+[submodule "firewall"]
+	path = firewall
+	url = https://github.com/Servers-for-Hackers/ansible-firewall
+[submodule "user-management"]
+	path = user-management
+	url = https://github.com/Servers-for-Hackers/ansible-user-example
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = https://github.com/Servers-for-Hackers/ansible-elasticsearch
+[submodule "basic-server"]
+	path = basic-server
+	url = https://github.com/Servers-for-Hackers/ansible-basic-server
+[submodule "beanstalkd"]
+	path = beanstalkd
+	url = https://github.com/Servers-for-Hackers/ansible-beanstalkd
+[submodule "aws-example"]
+	path = aws-example
+	url = https://github.com/Servers-for-Hackers/ansible-aws-example
+[submodule "pgsql-example"]
+	path = pgsql-example
+	url = https://github.com/Servers-for-Hackers/ansible-pgsql-example
+[submodule "ssh"]
+	path = ssh
+	url = https://github.com/Servers-for-Hackers/ansible-ssh
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/Servers-for-Hackers/ansible-nodejs
+[submodule "fail2ban"]
+	path = fail2ban
+	url = https://github.com/Servers-for-Hackers/ansible-fail2ban
+[submodule "php-fpm"]
+	path = php-fpm
+	url = https://github.com/Servers-for-Hackers/ansible-php-fpm
